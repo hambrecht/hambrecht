@@ -21,6 +21,15 @@ This segmentation process not only allows for a comprehensive assessment of func
 Multiple study sites serve as practical case studies for comparing and assessing functional diversity.
 By analysing and comparing the functional diversity across these study sites, the project aims to contribute valuable insights into the understanding and management of biodiversity.
 
+# Research interest
+- Addressing human wildlife conflict and biodiversity loss with remote sensing tools
+
+# Socials
+- [Twitter](https://twitter.com/l_hambrecht)
+- [Mastodon](https://fosstodon.org/@Hambrecht)
+- [ResearchGate](https://www.researchgate.net/profile/Leonard-Hambrecht)
+- [ORCID](https://orcid.org/0000-0002-3846-4017)
+
 # Fan of
 - FOSS
 - [lidR](https://github.com/Jean-Romain/lidR)
